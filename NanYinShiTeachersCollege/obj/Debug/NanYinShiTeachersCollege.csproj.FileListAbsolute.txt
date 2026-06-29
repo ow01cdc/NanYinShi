@@ -1,0 +1,9 @@
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\NanYinShiTeachersCollege.exe.config
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\NanYinShiTeachersCollege.exe
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\NanYinShiTeachersCollege.pdb
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.csproj.AssemblyReference.cache
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.Properties.Resources.resources
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.csproj.GenerateResource.cache
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.csproj.CoreCompileInputs.cache
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.exe
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.pdb
