@@ -1,4 +1,5 @@
-﻿using System;
+﻿using NanYinShiTeachersCollege.Pages;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,9 +16,28 @@ namespace NanYinShiTeachersCollege
         public Form1()
         {
             InitializeComponent();
+
+     
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void menuUC1_LableClick(object sender, EventArgs e)
+        {
+            panelContent.Controls.Clear();
+
+            HomePage homep = new HomePage();
+       
+            panelContent.Controls.Add(homep);
+        }
+
+        private void menuUC2_LableClick(object sender, EventArgs e)
+        {
+            panelContent.Controls.Clear();
+            SettingPage settingP = new SettingPage();
+
+            panelContent.Controls.Add((SettingPage)settingP);
+        }
+
+        private void menuUC1_Load(object sender, EventArgs e)
         {
 
         }
