@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace NanYinShiTeachersCollege.EF6
 {
     [Table("MenuT")]
-    internal class MemuTModel
+    internal class MenuTModel
     {
         public int id {  get; set; }
 

@@ -3,11 +3,15 @@ F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\NanYinShiTeachersColl
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\NanYinShiTeachersCollege.pdb
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\EntityFramework.dll
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\EntityFramework.SqlServer.dll
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\Newtonsoft.Json.dll
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\EntityFramework.xml
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\EntityFramework.SqlServer.xml
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\bin\Debug\Newtonsoft.Json.xml
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.csproj.AssemblyReference.cache
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.AddMenuForm.resources
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.Form1.resources
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.Pages.HomePage.resources
+F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.Pages.MenuPage.resources
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.Pages.SettingPage.resources
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.Properties.Resources.resources
 F:\C#\NanYinShiProjects\NanYinShiTeachersCollege\obj\Debug\NanYinShiTeachersCollege.UserControles.MenuUC.resources

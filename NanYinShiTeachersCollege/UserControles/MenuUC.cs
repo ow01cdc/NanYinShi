@@ -85,6 +85,18 @@ namespace NanYinShiTeachersCollege.UserControles
                 label1.Text = value;
             }
         }
+        [Description("这是设置当前菜单图片的属性")]
+        public Image MenuImage
+        {
+            get
+            {
+                return pictureBox1.Image;
+            }
+            set
+            {
+                pictureBox1.Image = value;
+            }
+        }
         [Description("控件基本颜色")]
         public Color MenuBaseColor { get; set; } = Color.Black;
         
