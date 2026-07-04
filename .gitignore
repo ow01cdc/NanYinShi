@@ -1,0 +1,38 @@
+# Visual Studio 用户文件
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio 构建产物
+[Bb]in/
+[Oo]bj/
+
+# NuGet 包目录
+packages/
+*.nupkg
+*.snupkg
+
+# 编译产物
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# 日志文件
+*.log
+
+# 临时文件
+*.bak
+*.tmp
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store

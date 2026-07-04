@@ -8,13 +8,15 @@ using System.Threading.Tasks;
 namespace NanYinShiTeachersCollege.EF6
 {
     [Table("MenuT")]
-    internal class MenuTModel
+    public class MenuTModel
     {
         public int id {  get; set; }
 
         public string MenuText { get; set; }
         public string MenuImage { get; set; }
         public string MenuPage { get; set; }
+        
+
        
     }
 }

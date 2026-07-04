@@ -15,11 +15,19 @@ namespace NanYinShiTeachersCollege.Pages
         public HomePage()
         {
             InitializeComponent();
+            label2.Text = GlobalClass.Instance.CurrentLoginUser.name;
         }
 
         private void HomePage_Load(object sender, EventArgs e)
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+       
     }
 }

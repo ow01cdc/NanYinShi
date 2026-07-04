@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -15,10 +15,11 @@ namespace NanYinShiTeachersCollege
         [STAThread]
         static void Main()
         {
-           
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            // 先显示登录窗体，登录成功后由 LoginForm 负责打开 Form1
+            Application.Run(new LoginForm());
         }
     }
 }
